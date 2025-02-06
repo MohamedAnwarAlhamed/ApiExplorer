@@ -1,0 +1,46 @@
+{
+  "JVData": {
+    "JVDetails": {
+      "Header": {
+        "CompanyCode": "2000",
+        "BillDate": "20231007",
+        "BillType": "DG",
+        "BillNo": "",
+        "PostingDate": "20231007",
+        "PostingTime": "00:00:00",
+        "UserName": "COM_RFC",
+        "FiscalYear": 2023,
+        "CustomerName": "",
+        "CustomerCode": "81000012",
+        "JobNo": "",
+        "Remarks": "HEADER TEXT",
+        "Documenttext": "DOC HEADER TEXT",
+        "LocalCurr": "SAR",
+        "LocalCurrAmt": 1000.00,
+        "TotalAmount": 1000.00,
+        "BillCurr": "SAR",
+        "Assignment": "ASSIGN",
+        "ReferenceKey": "REF KEY",
+        "ReferenceKey1": "REF KEY1",
+        "ReferenceKey2": "REF KEY2",
+        "ReferenceKey3": "REF KEY3",
+        "Exchnagerate": "",
+        "PaymentTerm": "Z041"
+      },
+      "LineItem": {
+        "Details": [{
+          "SrNo": "000001",
+          "GLCode": "800010",
+          "Mode": "EXPENSE1",
+          "PostingKey": "40",
+          "Amount": 1000.00,
+          "BillCurr": "SAR",
+          "TAXCode": "S3",
+          "CostCenter": "",
+          "ProfitCenter": "2300"
+        }
+        ]
+      }
+    }
+  }
+}
